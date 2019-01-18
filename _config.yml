@@ -1,11 +1,11 @@
 # Site settings
-author: David Clegg
-title: 
+author: Dave Clegg
+title: Stumbling Through The Dark
 header-img: img/home-bg.png
 email: dclegg2@gmail.com
-copyright_name: David Clegg
+copyright_name: Dave Clegg
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Rough Field Guide to Survival as an Aspiring Data Scientist
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dclegg2
